@@ -30,23 +30,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/Aldodev01/PhpCi-Resepku">
+    <img src="https://img.freepik.com/free-vector/cute-couple-barista-apron-standing-with-arms-crossed-cartoon-character-illustration_56104-425.jpg?w=996&t=st=1666055008~exp=1666055608~hmac=4785a9fadec87d871fca57cd01dd8d44a5e7f6f8a728263f919d833326496b0d" alt="Logo" width="90" height="90">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Resepku By Kelompok 5</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Website Resep Makanan Komplit dan komplit
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Aldodev01/PhpCi-Resepku"><strong>Explore the Project »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://aldo-shopify.netlify.app/">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/Aldodev01/PhpCi-Resepku/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/Aldodev01/PhpCi-Resepku/issues">Request Feature</a>
   </p>
 </div>
 
@@ -104,14 +104,14 @@ Use the `BLANK_README.md` to get started.
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
+* [![Codeigniter][codeigniter.com]][Codeigniter-url]
+* [![Tailwindcss][Tailwindcss.com]][Tailwindcss-url]
+<!-- * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
 * [![Svelte][Svelte.dev]][Svelte-url]
 * [![Laravel][Laravel.com]][Laravel-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* [![JQuery][JQuery.com]][JQuery-url] -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
