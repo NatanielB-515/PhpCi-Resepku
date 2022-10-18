@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Aldodev01/PhpCi-Resepku">
-    <img src="https://img.freepik.com/free-vector/cute-couple-barista-apron-standing-with-arms-crossed-cartoon-character-illustration_56104-425.jpg?w=996&t=st=1666055008~exp=1666055608~hmac=4785a9fadec87d871fca57cd01dd8d44a5e7f6f8a728263f919d833326496b0d" alt="Logo" width="100%" height="700">
+    <img src="https://img.freepik.com/free-vector/cute-couple-barista-apron-standing-with-arms-crossed-cartoon-character-illustration_56104-425.jpg?w=996&t=st=1666055008~exp=1666055608~hmac=4785a9fadec87d871fca57cd01dd8d44a5e7f6f8a728263f919d833326496b0d" alt="Logo" width="100%" height="100%">
   </a>
 
   <h3 align="center">Resepku By Kelompok 5</h3>
