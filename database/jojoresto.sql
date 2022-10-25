@@ -32,6 +32,7 @@ CREATE TABLE `food_type` (
   `tipe` varchar(48) CHARACTER SET latin1 NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
+
 --
 -- Dumping data for table `food_type`
 --
